@@ -1,0 +1,6 @@
+{
+  "name": "Personal TV Home",
+  "description": "Scenic Glass Android TV launcher with a floating translucent app dock, fluid remote navigation, dynamic clock, and customizable appearance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
